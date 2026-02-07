@@ -31,8 +31,3 @@ AgentSkills.io-compatible skills for Claude Code, OpenClaw, Windsurf, and other 
 - 📬 **Newsletter:** [the.leadingintech.email](https://the.leadingintech.email)
 
 ---
-
-## 📊 GitHub Stats
-
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robansuini&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
