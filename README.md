@@ -1,6 +1,6 @@
 # Hi, I'm Roberto 👋
 
-**Engineering Manager since 2011** · Venezuelan living in Madrid · Building tools to help engineering leaders grow their teams.
+**Engineering Leader** · Based in Madrid · Building tools to help engineering leaders grow their teams.
 
 ---
 
